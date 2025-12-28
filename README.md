@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**NasimReza71/NasimReza71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 My name is Nasim Reza Hridoy. I have completed my B.Sc. in Computer Science and Engineering from AIUB. During my university life, I developed a strong interest in web development, especially in building applications and understanding how websites work. I am a motivated fresher and I’m looking for an opportunity to start my career as a web developer and grow my skills in a professional environment.
 
 
@@ -30,7 +19,3 @@ My name is Nasim Reza Hridoy. I have completed my B.Sc. in Computer Science and 
 [![](https://visitcount.itsvg.in/api?id=NasimReza71&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
